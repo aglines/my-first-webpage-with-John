@@ -30,4 +30,8 @@ _HTML is really cool!_
 
 *Open source applies to all. Use at your own risk*
 
+### Notes
+
+_This is text added at 11:33am on Tues 4/18_
+
 Copyright (c) 2016 **_{Andrew Glines, John Dowd - Epicodus}_**
